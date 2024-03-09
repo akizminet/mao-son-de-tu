@@ -1,4 +1,3 @@
 .bsp
 .metals
-.scala-build/*
-!.scala-build/ide-options*.json
+.scala-build
