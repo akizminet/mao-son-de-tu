@@ -1,0 +1,6 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "metals.javaHome": "/home/phamnv/.sdkman/candidates/java/21-graal"
+}
